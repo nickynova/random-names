@@ -1,0 +1,26 @@
+{
+  "name": "random-messages-bynick",
+  "version": "1.0.1",
+  "description": "random messages",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Rodriguez <nickynova@aol.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg-bynick": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickynova/random-names.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "bugs": {
+    "url": "https://github.com/nickynova/random-names/issues"
+  },
+  "homepage": "https://github.com/nickynova/random-names#readme"
+}
